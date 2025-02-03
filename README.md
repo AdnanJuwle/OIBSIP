@@ -1,2 +1,2 @@
 # OIBSIP
-Data Science Tasks from OasisInfoByte
+This repository contains five machine learning tasks assigned by Oasis Infobyte as part of their internship program. Each task involves different aspects of data preprocessing, model building, evaluation, and visualization using Python and popular ML libraries such as pandas, scikit-learn, matplotlib, and seaborn. The tasks cover various domains, including classification, regression, and text analysis. The repository includes well-documented code, explanations, and necessary dependencies for easy replication and understanding.
